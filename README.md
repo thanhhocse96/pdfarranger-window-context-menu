@@ -1,6 +1,6 @@
 # Open in PDF Arranger — Context Menu
 
-Add an **"Open in PDF Arranger"** option to the right-click menu when you click a PDF file.
+Add an **"Open in PDF Arranger"** option to the right-click menu when you click a PDF file (Claude Code).
 
 ---
 
