@@ -2,8 +2,6 @@
 
 Add an **"Open in PDF Arranger"** option to the right-click menu when you click a PDF file (Claude Code).
 
----
-
 ## Installation (choose 1 of 2)
 
 ### Method A — Automatic (Recommended)
@@ -16,8 +14,6 @@ Add an **"Open in PDF Arranger"** option to the right-click menu when you click 
 2. If PDF Arranger **is not** installed at `C:\Program Files\PDFArranger\` then edit the path
 3. Double-click the `.reg` file → Yes → OK
 
----
-
 ## How to use
 
 1. While viewing a PDF in Foxit → **right-click the file** (in Explorer)
@@ -26,13 +22,9 @@ Add an **"Open in PDF Arranger"** option to the right-click menu when you click 
 4. **Ctrl+S** to save and overwrite the original file
 5. Foxit will prompt to reload → choose **Yes**
 
----
-
 ## Uninstall
 
 Double-click `uninstall_context_menu.reg`
-
----
 
 ## Notes
 
@@ -46,7 +38,6 @@ Double-click `uninstall_context_menu.reg`
 # Thêm "Open in PDF Arranger" và Context Menu
 
 Thêm option "Open in PDF Arranger" vào chuột phải khi click file PDF.
----
 
 ## Cách cài (chọn 1 trong 2)
 
@@ -60,8 +51,6 @@ Thêm option "Open in PDF Arranger" vào chuột phải khi click file PDF.
 2. Nếu PDF Arranger **không** cài ở `C:\Program Files\PDFArranger\` thì sửa đường dẫn
 3. Double-click file `.reg` → Yes → OK
 
----
-
 ## Cách dùng
 
 1. Đang xem PDF trong Foxit → **click chuột phải vào file** (trong Explorer)
@@ -70,13 +59,9 @@ Thêm option "Open in PDF Arranger" vào chuột phải khi click file PDF.
 4. **Ctrl+S** để lưu đè file gốc
 5. Foxit tự hỏi reload → chọn **Yes**
 
----
-
 ## Gỡ cài đặt
 
 Double-click `uninstall_context_menu.reg`
-
----
 
 ## Lưu ý
 
