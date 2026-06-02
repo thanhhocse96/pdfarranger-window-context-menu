@@ -1,7 +1,6 @@
 # Open in PDF Arranger — Context Menu
 
 Add an **"Open in PDF Arranger"** option to the right-click menu when you click a PDF file.
-Works with all PDF apps (Foxit Reader, Foxit Editor, Edge, Chrome...).
 
 ---
 
@@ -47,8 +46,6 @@ Double-click `uninstall_context_menu.reg`
 # Thêm "Open in PDF Arranger" và Context Menu
 
 Thêm option "Open in PDF Arranger" vào chuột phải khi click file PDF.
-Hoạt động với mọi app PDF (Foxit Reader, Foxit Editor, Edge, Chrome...).
-
 ---
 
 ## Cách cài (chọn 1 trong 2)
